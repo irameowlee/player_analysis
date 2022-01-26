@@ -1,9 +1,8 @@
 CREATE TABLE nba_stats (
-        Player VARCHAR NOT NULL,
-        Pos VARCHAR,
-        Age int,
-        Tm VARCHAR,
-        year int,
+        player VARCHAR NOT NULL,
+        pos VARCHAR,
+        age int,
+        tm VARCHAR,
         g int,
         gs int,
         mp int,
@@ -24,14 +23,14 @@ CREATE TABLE nba_stats (
         tov int,
         pf int,
         pts int,
-        PRIMARY KEY (player,
+        PRIMARY KEY (player),
         UNIQUE (player));
     
      CREATE TABLE advanced (
         player VARCHAR NOT NULL,
-        pos	as VARCHAR,
+        pos VARCHAR,
         age	int,
-        tm	int.
+        tm	int,
         g int,
         mp int,
         per int,
@@ -54,5 +53,5 @@ CREATE TABLE nba_stats (
         dbpm int,	
         bpm int,	
         vorp int, 
-        FOREIGN KEY (player) REFERENCES main (player),
+        FOREIGN KEY (player) REFERENCES nba_stats (player),
         PRIMARY KEY (player));

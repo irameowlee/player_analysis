@@ -5,8 +5,10 @@
 ### Background 
 
 ### Database
-#### Structure:
+We've create a Postgres database and plan to load it into AWS. We've initally created the database with two tables: NBA_stats and Advanced. We plan to create another table in postgres and using selected columns from both tables.
 #### ERD:
+![](https://i.imgur.com/gVhyn80.png)
+
 ### Technology
 Below are the tools we've used to create our project.
 #### Data Source: 
@@ -24,3 +26,45 @@ We've decided to use Tableau to display our results and machine learning models.
 ### Data Visualization
 
 #### Column Acronyms:
+* pos = position
+* tm = team
+* g = total games
+* gs = games started
+* mp = Minutes Played
+* fg = Field Goal
+* fga = Field Goals attempted
+* threepoint = 3-points made
+* threepoint_att = 3-points attempted
+* threepoint_percent = 3-point percentage
+* twopoint = 2-points made
+* twopoint_att = 2-points attempted
+* twopoint_percent = 2-point percentage
+* orb = Offensive Rebounds
+* drb = Defensive Rebounds
+* trb = Total Rebounds
+* ast = Assists
+* stl = Steals
+* blk = Blocks
+* tov = Turnovers
+* pf = Personal Fouls
+* pts = Total Points
+* per = Player Efficiency Rating
+* ts_percent = true shooting percentage
+* threepoint_attr = 3-point attempt rating    
+* ftr free throw rating
+* orb_percent = Offensive rebound percentage
+* drb_percent = Defensive rebound percentage
+* trb_percent = Total rebound percentage
+* ast_percent = Assist percentage    
+* stl_percent = Steal percentage
+* blk_percent = Block percentage
+* tov_percent = Turnover percentage
+* usg_percent = Usuage percentage          
+* ows = Offensive win shares
+* dws = Defensive win shares
+* ws = Total win shares    
+* ws_per_48 = Wins shares per 48 minutes         
+* obpm = Offensive Box Plus/Minus
+* dbpm = Defensive Box Plus/Minus    
+* bpm = Total Box Plus/Minus    
+* vorp = Value over replacement player
