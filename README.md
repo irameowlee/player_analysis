@@ -68,3 +68,7 @@ We've decided to use Tableau to display our results and machine learning models.
 * dbpm = Defensive Box Plus/Minus    
 * bpm = Total Box Plus/Minus    
 * vorp = Value over replacement player
+
+### Communication protocol 
+* slack
+* zoom
