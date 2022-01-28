@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Background 
+check out our [google slide]([](https://docs.google.com/presentation/d/15AfPDk4v5dHxUoYU41ij-PVReolKnboE7pnida1XuS4/edit?usp=sharing))
 
 ### Database
 We've create a Postgres database and plan to load it into AWS. We've initally created the database with two tables: NBA_stats and Advanced. We plan to create another table in postgres and using selected columns from both tables.
