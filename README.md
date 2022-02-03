@@ -129,11 +129,11 @@ Description of Preliminary Data Preprocessing
 
 ## Data Visualization
 - Tableau cluster with NBA player grouping data
-![](resources/images/Analysis.png)
+![](Resources/images/Analysis.png)
 - Tableau pie chart with team roster analysis
-![](resources/images/pie_analysis.png)
+![](Resources/images/pie_analysis.png)
 - Tableau bar graph with NBA teams with grouping data
-![](resources/images/bar_analysis.png)
+![](Resources/images/bar_analysis.png)
 
 
 ## Communication protocol 
