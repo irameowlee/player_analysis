@@ -147,4 +147,3 @@ Visuals we will be showing include:
 ![](Resources/images/team_bar_analysis.png)
 - Tableu circle charts on on VORP & USG percentage
 - ![](Resources/images/circle_analysis.png)
-
