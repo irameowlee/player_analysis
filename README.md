@@ -60,7 +60,7 @@ We created a jupyter notebook file, used Beautiful Soup to scrape the data off o
 We created another jupyter notebook to take the clean CSV files and import them into a Postgres SQL database using SQL Alchemy and Python. We also created a schema file to create two tables for our Analysis using SQL.
 
 ## Machine Learning
-detailed ML  [](https://github.com/irameowlee/player_analysis/blob/main/README_ML.md)
+[ML README](https://github.com/irameowlee/player_analysis/blob/main/README_ML.md)
 
 We created a python jupyter notebook file to conduct our machine learning models. We used SkLearn library to perform our unsupervised learning model define player roles and overall performance.
 Description of Preliminary Data Preprocessing
