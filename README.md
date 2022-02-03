@@ -129,10 +129,22 @@ Description of Preliminary Data Preprocessing
 ![](Resources/images/bokeh_plot_cluster.png)
 
 ## Data Visualization
+Tableau link: https://public.tableau.com/views/NBAPlayerAnalysis20-21/Analysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Visuals we will be showing include:
+- Kmeans Cluster 
+- Pie chart of teams with cluster grouping
+- Circle Charts of impact of clusters on advanced stats
+- Bar graphs of Wins Shares by cluster and team players
+
+### Snapshot of our Visuals:
 - Tableau cluster with NBA player grouping data
 ![](Resources/images/Analysis.png)
 - Tableau pie chart with team roster analysis
 ![](Resources/images/pie_analysis.png)
 - Tableau bar graph with NBA teams with grouping data
-![](Resources/images/bar_analysis.png)
+![](Resources/images/lineup_bar_analysis.png)
+- Tableau bar chart of cluster impact on Win Shares
+![](Resources/images/team_bar_analysis.png)
+- Tableu circle charts on on VORP & USG percentage
+- ![](Resources/images/circle_analysis.png)
 
