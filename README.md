@@ -135,7 +135,3 @@ Description of Preliminary Data Preprocessing
 - Tableau bar graph with NBA teams with grouping data
 ![](Resources/images/bar_analysis.png)
 
-
-## Communication protocol 
-* slack
-* zoom
