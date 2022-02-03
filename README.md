@@ -46,3 +46,12 @@ Using unsupervised machine learning. No training and testing sets.
 - Dimensionality reduction. Used PCA to reduce the number of dimensions and transformed larged set of variables into smaller ones.
 - created elbow curve with the generated PCA. Used the principal components data with the K-means algorithm with a K value of 4.
 - plot the clusters
+
+### Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+- We wanted to create a hierarchical cluster dendogram. However, our data was not fit for that model and we decided to proceed with our K-means cluster.
+
+### Description of how they have trained the model thus far, and any additional training that will take place
+We used unsupervised machine learning. Did not have to train the model. 
+
+### Description of current accuracy score
+We used unsupervised machine learning. Do not have accuracy score.  
