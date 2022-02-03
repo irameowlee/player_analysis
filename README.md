@@ -122,10 +122,10 @@ Description of Preliminary Data Preprocessing
 - Scaled data with standardscaler
 - Dimensionality reduction. Used PCA to reduce the number of dimensions and transformed larged set of variables into smaller ones.
 - created elbow curve with the generated PCA. 
-![](resources/images/bokeh_plot (4).png)
+![](Resources/images/bokeh_plot (4).png)
 - Used the principal components data with the K-means algorithm with a K value of 5.
 - plot the clusters
-![](resources/images/bokeh_plot (5).png)
+![](Resources/images/bokeh_plot (5).png)
 
 ## Data Visualization
 - Tableau cluster with NBA player grouping data
