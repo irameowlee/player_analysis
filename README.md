@@ -37,7 +37,7 @@ Group 3: Key Role Players
 Group 4: G League Players
  
 
-#### Technologies, languages, tools, and algorithms used throughout the project
+### Technologies, languages, tools, and algorithms used throughout the project
 - SQL Alchemy
 - Python
 - Pandas
