@@ -51,7 +51,7 @@ Using unsupervised machine learning. No training and testing sets.
 - We wanted to create a hierarchical cluster dendogram. However, our data was not fit for that model and we decided to proceed with our K-means cluster.
 
 ### Description of how they have trained the model thus far, and any additional training that will take place
-We used unsupervised machine learning. Did not have to train the model. 
+- We used unsupervised machine learning. Did not have to train the model. 
 
 ### Description of current accuracy score
-We used unsupervised machine learning. Do not have accuracy score.  
+- We used unsupervised machine learning. Do not have accuracy score.  
