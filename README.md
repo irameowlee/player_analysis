@@ -52,7 +52,8 @@ Group 4: G League Players
 We've create a Postgres database and loaded it into AWS. We've initally created the database with two tables: NBA_stats and Advanced. We plan to create another table in postgres and using selected columns from both tables.
 #### ERD:
 ![](https://i.imgur.com/AiX2gSt.png)
-Third Table integration:
+
+#### Third Table integration:
 ![](https://i.imgur.com/0SUx9yR.png)
 
 #### Data Source: 
@@ -76,7 +77,8 @@ Description of Preliminary Data Preprocessing
 - NBA stats and advanced stats csv file
  Index(['player_id', 'Player', 'pos', 'age', 'tm', 'g', 'gs', 'mp', 'fg', 'fga', 'fg_percent', 'threepoint', 'threepoint_att', 'threepoint_percent', 'twopoint', 'twopoint_att', 'twopoint_percent', 'ft', 'fta', 'ft_percent', 'orb', 'drb', 'trb', 'ast', 'stl', 'blk', 'tov', 'pf', 'pts', 'per', 'ts_percent', 'threepoint_attr', 'ftr', 'orb_percent', 'drb_percent', 'trb_percent', 'ast_percent', 'stl_percent', 'blk_percent', 'tov_percent', 'usg_percent', 'ows', 'dws', 'ws', 'ws_per_48', 'obpm', 'dbpm', 'bpm', 'vorp']
 - dropped player id, Player, pos, age and tm columns for machine learning. Dropped null values and made sure there were no duplicates.
-- Column Acronyms:
+
+##### Column Acronyms:
 * pos = position
 * tm = team
 * g = total games
