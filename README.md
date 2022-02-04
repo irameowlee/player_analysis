@@ -51,7 +51,9 @@ Group 4: G League Players
 ## Database
 We've create a Postgres database and loaded it into AWS. We've initally created the database with two tables: NBA_stats and Advanced. We plan to create another table in postgres and using selected columns from both tables.
 #### ERD:
-![](https://i.imgur.com/gVhyn80.png)
+![](https://i.imgur.com/AiX2gSt.png)
+Third Table integration:
+![](https://i.imgur.com/0SUx9yR.png)
 
 #### Data Source: 
 We utilized NBA player statistics from basketball-reference.com. We collected the data for the 2020-2021 season.
