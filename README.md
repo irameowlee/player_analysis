@@ -3,7 +3,8 @@
 ### Overview of Project
 
 ## Background 
-** check out our [google slides](https://docs.google.com/presentation/d/15AfPDk4v5dHxUoYU41ij-PVReolKnboE7pnida1XuS4/edit?usp=sharing) **
+** check out our [google slides](https://docs.google.com/presentation/d/15AfPDk4v5dHxUoYU41ij-PVReolKnboE7pnida1XuS4/edit?usp=sharing)**
+[Presentation slides](https://docs.google.com/presentation/d/1k--9bCzQdklvmKAXiYanF6IuN4zNPRv---5SX25Sh8U/edit?usp=sharing).
 
 ### Reason topic was selected
 The overall style of play has  changed drastically in the past few years and using player positions to understand the game is no longer relevant. We are using unsupervised Machine Learning to create a new and different approach of grouping players to better analyze player style and roles in the team.
